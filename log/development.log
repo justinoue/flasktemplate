@@ -1,0 +1,120 @@
+.keep
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:werkzeug: * Running on http://127.0.0.1:4003/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:werkzeug: * Running on http://127.0.0.1:4003/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:werkzeug: * Detected change in '/home/justin/projects/flasktemplate/application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:werkzeug: * Running on http://127.0.0.1:4003/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:werkzeug: * Running on http://127.0.0.1:4003/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:werkzeug: * Detected change in '/home/justin/projects/flasktemplate/application.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:werkzeug:127.0.0.1 - - [29/Aug/2016 13:53:11] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Aug/2016 13:53:12] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/justin/projects/flasktemplate/my_app/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+INFO:werkzeug: * Running on http://127.0.0.1:4003/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:root:
+
+Bootin up My App...
+
+
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 329-176-796
+INFO:werkzeug:127.0.0.1 - - [29/Aug/2016 13:55:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Aug/2016 13:55:13] "GET /favicon.ico HTTP/1.1" 404 -

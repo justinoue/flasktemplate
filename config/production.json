@@ -1,1 +1,13 @@
-production.json
+{
+  "server": {
+    "hostname": "myapp.com",
+    "port": 4003,
+    "debug": false
+  },
+  "airbrake": {
+    "api_key": "",
+    "project_id": "",
+    "env": "production",
+    "enabled": false
+  }
+}

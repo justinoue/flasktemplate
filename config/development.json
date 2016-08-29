@@ -1,1 +1,13 @@
-development.json
+{
+  "server": {
+    "hostname": "127.0.0.1",
+    "port": 4003,
+    "debug": true
+  },
+  "airbrake": {
+    "api_key": "",
+    "project_id": "",
+    "env": "development",
+    "enabled": false
+  }
+}

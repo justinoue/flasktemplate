@@ -1,1 +1,13 @@
-sandbox.json
+{
+  "server": {
+    "hostname": "myapp-sandbox.com",
+    "port": 4003,
+    "debug": false
+  },
+  "airbrake": {
+    "api_key": "",
+    "project_id": "",
+    "env": "sandbox",
+    "enabled": false
+  }
+}
